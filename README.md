@@ -28,7 +28,7 @@ sudo apt install set -y
 ### From Source
 
 ```bash
-git clone https://github.com/trustedsec/social-engineer-toolkit/ setoolkit/
+git clone https://github.com/trustedsec/social-engineer-toolkit/setoolkit/.git
 cd setoolkit
 python3 -m venv .venv
 source .venv/bin/activate
